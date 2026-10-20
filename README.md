@@ -28,7 +28,7 @@ Para visualizar localmente, abra `index.html` ou sirva a pasta com um servidor H
 
 ## Fotografias e fontes
 
-Foto maior da colagem: Sebastião Ramos Gonzaga / CHC. Foto superior direita: Germano Woehl Junior / Instituto Rã-bugio. Autorias não localizadas usam o marcador solicitado “imagem anônima da internet”. A foto sobre flor foi localizada em anúncio identificado como MQA e permanece como referência comparativa.
+Foto maior da colagem: Sebastião Ramos Gonzaga / CHC. Foto superior direita: Germano Woehl Junior / Instituto Rã-bugio. Autorias não localizadas usam o marcador solicitado “imagem anônima da internet”.
 
 A atribuição dos créditos não transfere direitos sobre fotografias, marca ou conteúdo das fontes. Não foi aplicada licença genérica a esses materiais.
 
