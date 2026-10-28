@@ -12,7 +12,7 @@ Página da mandaçaia: https://meliponariodocemorretes.github.io/catalogo-abelha
 - Jataí, guaraipo, bugia, borá, tubuna, mandaguari, mombucão, mirim-emerina, mirim-droryana e mirim-guaçu com três fotografias fornecidas cada; mandaçaia com as quatro imagens já presentes.
 - Todas as onze fichas têm fotografias: 34 arquivos de imagem no total, sem fotos pendentes nem espaços reservados.
 - Referências científicas e créditos por fotografia em `creditos.html`.
-- Marca principal e ícone mínimo Doce Morretes. O selo institucional foi excluído conforme orientação da marca.
+- Logo redonda em aquarela Doce Morretes, fornecida pela proprietária em PDF e convertida diretamente para PNG, sem redesenho. A arte é usada na abertura, nos cabeçalhos, nas fichas e no ícone do navegador.
 - Paleta `#1A3322`, `#D4A373`, `#FAEDCD`; títulos em Georgia, textos em Segoe UI.
 
 ## Contatos
