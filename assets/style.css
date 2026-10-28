@@ -5,3 +5,5 @@
 @media print{.offering,.header .nav,.search,.hero-actions,.entry-nav,.print-button,.viewer,.expand,.contacts{display:none!important}.wrap{width:100%}.header-inner{padding:8px 0}.species-title h1{font-size:34pt}.entry-number{font-size:36pt}.species-layout{gap:25px}.fact p{font-size:10pt}.sponsor{background:none!important;padding:20px 0}.sponsor-inner{grid-template-columns:100px 1fr;gap:20px}.sponsor-logo{width:100px}.sponsor h2{font-size:20pt}.sponsor p,.source-note{font-size:9pt}.gallery,.fact,.credit-item{break-inside:avoid}.footer{font-size:8pt}.species-grid{grid-template-columns:repeat(3,1fr)}body{background:white}.photo-caption{font-size:8pt}.hero{padding-block:20px}.hero h1{font-size:38pt}@page{size:A4;margin:16mm}}
 
 .species-intro{font-size:17px;line-height:1.8;color:var(--green);padding-bottom:24px}.species-intro+.fact{border-top:1px solid var(--line);padding-top:24px}
+
+.sponsor-logo-tradicional{height:auto;border-radius:0}.sponsor-site-link{text-decoration:underline;text-underline-offset:3px}
